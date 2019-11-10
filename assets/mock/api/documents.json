@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": null,
+  "data": {
+    "total": 100,
+    "perPage": 10,
+    "currentPage": 4,
+    "lastPage": 10,
+    "apiResult": [
+      {
+        "id": 1,
+        "code": "DOC01",
+        "title": "Văn bản",
+        "content": "Mô tả nội dung văn bản",
+        "active": true,
+        "removed": false,
+        "issued_date": "2019-11-10T08:17:34.865Z",
+        "valid_from": "2019-11-10T08:17:34.865Z",
+        "valid_to": "2019-11-10T08:17:34.865Z",
+        "whole_company": false,
+        "expired": false,
+        "nearExpired": true,
+        "catId": 1,
+        "catName": "Quy trình",
+        "sectId": 1,
+        "sectName": "Lĩnh vực theo đơn vị",
+        "fromDeptId": 1,
+        "fromDeptName": "Tên đơn vị phát hành",
+        "createdDate": "2019-11-10T08:17:34.865Z",
+        "updatedBy": "2019-11-10T08:17:34.865Z"
+      }
+    ]
+  }
+}
